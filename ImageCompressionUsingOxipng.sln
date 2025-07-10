@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "00 Host", "00 Host", "{801A2EAD-775D-45CD-975B-A46DCC55763D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageCompressionUsingOxipng.Host", "src\ImageCompressionUsingOxipng.Host\ImageCompressionUsingOxipng.Host.csproj", "{75697858-4FDC-41EE-B72D-0D67530BB0EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75697858-4FDC-41EE-B72D-0D67530BB0EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75697858-4FDC-41EE-B72D-0D67530BB0EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75697858-4FDC-41EE-B72D-0D67530BB0EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75697858-4FDC-41EE-B72D-0D67530BB0EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{75697858-4FDC-41EE-B72D-0D67530BB0EB} = {801A2EAD-775D-45CD-975B-A46DCC55763D}
+	EndGlobalSection
+EndGlobal
