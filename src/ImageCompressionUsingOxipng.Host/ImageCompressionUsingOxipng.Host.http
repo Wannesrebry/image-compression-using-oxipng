@@ -1,6 +1,0 @@
-@ImageCompressionUsingOxipng.Host_HostAddress = http://localhost:5124
-
-GET {{ImageCompressionUsingOxipng.Host_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###

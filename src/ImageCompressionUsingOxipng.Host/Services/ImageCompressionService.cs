@@ -17,6 +17,8 @@ public class OxipngCompressionService : IImageCompressionService
     public OxipngCompressionService(ILogger<OxipngCompressionService> logger)
     {
         _logger = logger;
+
+        // TODO: Set the path to the oxipng executable based on your deployments OS and architecture.
         _oxipngPath = "oxipng/windows-x64/oxipng.exe"; // Adjust the path as necessary
     }
 
